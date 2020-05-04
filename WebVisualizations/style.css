@@ -1,0 +1,55 @@
+.BoxIntro {
+  height: 400px;
+  margin-top: 10%;
+  color: lightseagreen;
+  background: white;
+}
+.BoxImages {
+  height: 600px;
+  margin-top: 10%;
+  color: lightseagreen;
+  background: white;
+}
+.BoxPlot {
+  height: auto;
+  margin-top: 10%;
+  color: lightseagreen;
+  background: white;
+}
+
+.DataSection {
+  margin-top: 15px;
+  color: black;
+  background: white;
+}
+
+.ComparisonImage {
+  margin-top: 15px;
+}
+
+hr {
+  display: block;
+  position: relative;
+  padding: 0;
+  margin: 8px auto;
+  height: 0;
+  width: 100%;
+  max-height: 0;
+  font-size: 1px;
+  line-height: 0;
+  clear: both;
+  border: none;
+  border-top: 4px solid lightseagreen;
+}
+
+.WhiteBG {
+  background-color: white;
+}
+
+.GreyBG {
+  background-color: lightgrey;
+}
+
+.margin-top-80 {
+  margin-top: 80px;
+}
